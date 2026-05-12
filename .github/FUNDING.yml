@@ -1,0 +1,52 @@
+# These are supp## Purpose
+<!-- Describe the intention of the changes being proposed. What problem does it solve or functionality does it add? -->
+* ...
+
+## Does this introduce a breaking change?
+<!-- Mark one with an "x". -->
+
+- [x] Yes
+- [ ] No
+
+<!-- Please prefix your PR title with one of the following:
+  * `feat`: A new feature
+  * `fix`: A bug fix
+  * `docs`: Documentation only changes
+  * `style`: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+  * `refactor`: A code change that neither fixes a bug nor adds a feature
+  * `perf`: A code change that improves performance
+  * `test`: Adding missing tests or correcting existing tests
+  * `build`: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+  * `ci`: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+  * `chore`: Other changes that don't modify src or test files
+  * `revert`: Reverts a previous commit
+  * !: A breaking change is indicated with a `!` after the listed prefixes above, e.g. `feat!`, `fix!`, `refactor!`, etc.
+-->
+
+## Golden Path Validation
+- [x] I have tested the primary workflows (the "golden path") to ensure they function correctly without errors.
+
+## Deployment Validation
+- [x] I have validated the deployment process successfully and all services are running as expected with this change.
+
+## What to Check
+Verify that the following are valid
+* ...
+
+## Other Information
+
+<!-- Add any other helpful information that may be needed here. -->orted funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
+thanks_dev: # Replace with a single thanks.dev username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
